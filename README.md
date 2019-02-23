@@ -8,6 +8,8 @@ Imagine to creating websida not only for human but for bots to.
 Use tags html to help robots to find us in google or find himself in my webside.
 Tags is also helpfull for blind people. They are using internet to. Some programs reading them websides.
 
+.# HTML:
+
 	- <hesder>		- logos, main words to rest content
 	- <nav>			- main tables of contests, nawigation bar
 	- <article>		- separate content, main part some biger contents, can be inside mainest article
