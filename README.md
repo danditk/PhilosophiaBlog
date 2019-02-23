@@ -10,8 +10,19 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 
 	- <hesder>		- logos, main words to rest content
 	- <nav>			- main tables of contests, nawigation bar
-	- <article>		- separate content, can be inside mainest article
+	- <article>		- separate content, main part some biger contents, can be inside mainest article
 	- <section>		- part of bigest content witch is related with article and can be in article or even mainest section
 	- <main>		- main contents, that what we need to se in webside, meat
 	- <aside>		- side contents, less important contents, advertisement
 	- <footer>		- informations, can be not only on the bottom of page also wen we wont sum something
+	- <figure>		-
+	- <figcaption>	-
+	
+	
+	
+.# CSS:
+
+	- border-radius: 5px;
+	- display: inline-block;
+	- :first-child {}
+	- opacity: .75;
