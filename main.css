@@ -19,7 +19,7 @@ body
 	margin-bottom: 40px;
 }
 
-nav
+#topnav
 {
 	background-color: #1c74b2;
 	text-align: center;
@@ -285,3 +285,4 @@ h2
 	color: #39a5f1;
 	margin-bottom: 20px;
 }
+
