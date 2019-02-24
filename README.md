@@ -31,11 +31,17 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	
 	
 .# GIT:
+<<<<<<< HEAD
 	
 	- git commit --amend -m "xxx"			update comment to recent commit
 	- git stash 							put chenges to backside - stash
 	- git stash pop							get chenges from stash
 	- git stash push -m "xxx"				unsert chenges to shash with comment
+=======
+
+	- git branch		master (stay clear) - develop (alpha/beta) - feature(new funcionality) - feature_user/user (individual works)
+						test/ bugfix (when we wont check something/ when something is wrong)
+>>>>>>> dev
 	
 	
 .# Sources:
