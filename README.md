@@ -17,8 +17,8 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	- <main>								main contents, that what we need to se in webside, meat
 	- <aside>								side contents, less important contents, advertisement
 	- <footer>								informations, can be not only on the bottom of page also wen we wont sum something
-	- <figure>		
-	- <figcaption>	
+	- <figure>								ilustriations, imgs
+	- <figcaption>							tags for figure items
 	
 	
 	

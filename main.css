@@ -187,6 +187,67 @@ h2
 	background-color: #196499;
 }
 
+.socials
+{
+	width:100%;
+	text-align: center;
+	background-color: #292929;
+}
+
+.socialdivs
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.fb
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.fb:hover
+{
+	background-color: #4668b3;
+}
+
+.yt
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.yt:hover
+{
+	background-color: #d94348;
+}
+
+.tw
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.tw:hover
+{
+	background-color: #3095d3;
+}
+
+.gplus
+{
+	width: 250px;
+	height: 155px;
+	float:left;
+}
+
+.gplus:hover
+{
+	background-color: #d95333;
+}
 
 
 
