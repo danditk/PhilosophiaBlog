@@ -32,6 +32,8 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	
 .# GIT:
 	
+	- echo "xxx" >> file_name.xxx			save xxx in file_name
+	- git push -u origin branch_name		send files on remote repository and -u is short from --set --upstream so next time we can send to remote branch useing only comend git push
 	- git commit --amend -m "xxx"			update comment to recent commit
 	- git stash 							put chenges to backside - stash
 	- git stash pop							get chenges from stash and delate stash file
@@ -43,6 +45,8 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	- git stash branch						creating branch witch contain stash files
 	- git branch		master (stay clear) - develop (alpha/beta) - feature(new funcionality) - feature_user/user (individual works)
 						test/ bugfix (when we wont check something/ when something is wrong)
+	- git fetch								download news from remote source
+	- git merge origin/master				actualize local master with remote master
 	- git merge conflict					we have see that file and sum or decide what was right
 	
 	
