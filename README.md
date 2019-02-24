@@ -34,9 +34,13 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	
 	- git commit --amend -m "xxx"			update comment to recent commit
 	- git stash 							put chenges to backside - stash
-	- git stash pop							get chenges from stash
+	- git stash pop							get chenges from stash and delate stash file
+	- git stash apply						get chenges from stash and let copy files on stash
+	- git stash clear						delete all stash
+	- git stash drop stash(x)				delete stash(x)
 	- git stash push -m "xxx"				unsert chenges to shash with comment
 	- git stash list						to see stash with comments
+	- git stash branch						creating branch witch contain stash files
 	- git branch		master (stay clear) - develop (alpha/beta) - feature(new funcionality) - feature_user/user (individual works)
 						test/ bugfix (when we wont check something/ when something is wrong)
 	- git merge conflict					we have see that file and sum or decide what was right
