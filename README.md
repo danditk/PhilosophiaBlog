@@ -10,13 +10,13 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 
 .# HTML:
 
-	- <hesder>			logos, main words to rest content
-	- <nav>				main tables of contests, nawigation bar
-	- <article>			separate content, main part some biger contents, can be inside mainest article
-	- <section>			part of bigest content witch is related with article and can be in article or even mainest section
-	- <main>			main contents, that what we need to se in webside, meat
-	- <aside>			side contents, less important contents, advertisement
-	- <footer>			informations, can be not only on the bottom of page also wen we wont sum something
+	- <hesder>								logos, main words to rest content
+	- <nav>									main tables of contests, nawigation bar
+	- <article>								separate content, main part some biger contents, can be inside mainest article
+	- <section>								part of bigest content witch is related with article and can be in article or even mainest section
+	- <main>								main contents, that what we need to se in webside, meat
+	- <aside>								side contents, less important contents, advertisement
+	- <footer>								informations, can be not only on the bottom of page also wen we wont sum something
 	- <figure>		
 	- <figcaption>	
 	
@@ -31,9 +31,11 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	
 	
 .# GIT:
-
-	- git stash 		put chenges to backside - stash
-	- git stash pop		get chenges from stash
+	
+	- git commit --amend -m "xxx"			update comment to recent commit
+	- git stash 							put chenges to backside - stash
+	- git stash pop							get chenges from stash
+	- git stash push -m "xxx"				unsert chenges to shash with comment
 	
 	
 .# Sources:
