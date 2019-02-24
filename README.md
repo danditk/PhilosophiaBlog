@@ -31,17 +31,15 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	
 	
 .# GIT:
-<<<<<<< HEAD
 	
 	- git commit --amend -m "xxx"			update comment to recent commit
 	- git stash 							put chenges to backside - stash
 	- git stash pop							get chenges from stash
 	- git stash push -m "xxx"				unsert chenges to shash with comment
-=======
-
+	- git stash list						to see stash with comments
 	- git branch		master (stay clear) - develop (alpha/beta) - feature(new funcionality) - feature_user/user (individual works)
 						test/ bugfix (when we wont check something/ when something is wrong)
->>>>>>> dev
+	- git merge conflict					we have see that file and sum or decide what was right
 	
 	
 .# Sources:
@@ -50,5 +48,9 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 	https://www.youtube.com/watch?time_continue=5039&v=VpwfcSSdODU
 	- Praktyczny kurs Git - #7/12 Polecenie git stash by overment
 	https://www.youtube.com/watch?v=NXNNa7VyBd0&index=7&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH
+	- Praktyczny kurs Git - #8/12 Czym jest branch? by overment
+	https://www.youtube.com/watch?v=I8lQK0NK0lY&index=8&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH
 	- Praktyczny kurs Git - #9/12 Zdalne repozytorium i fork by overment
 	https://www.youtube.com/watch?v=7myDXGfEnds&index=9&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH
+	- Praktyczny kurs Git - #10/12 Rozwiązywanie konfliktów by overment
+	https://www.youtube.com/watch?v=mxDN0rYQyGA&index=10&list=PLjHmWifVUNMKIGHmaGPVqSD-L6i1Zw-MH
