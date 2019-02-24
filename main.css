@@ -286,3 +286,17 @@ h2
 	margin-bottom: 20px;
 }
 
+.east ul
+{
+	padding-left: 20px;
+}
+
+.east ul > li
+{
+	margin-bottom: 5px;
+}
+
+.east img
+{
+	margin-top: 15px;
+}
