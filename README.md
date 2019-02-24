@@ -47,7 +47,7 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 						test/ bugfix (when we wont check something/ when something is wrong)
 	- git fetch								download news from remote source
 	- git merge origin/master				actualize local master with remote master
-	- git merge conflict					we have see that file and sum or decide what was right
+	- git merge (conflict)					we have see that file and sum or decide what was right
 	
 	
 .# Sources:
