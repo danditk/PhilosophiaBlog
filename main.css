@@ -277,3 +277,11 @@ h2
 	width: 170px;
 	padding: 20px;
 }
+
+.west h1
+{
+	font-size: 32px;
+	font-weight: 400;
+	color: #39a5f1;
+	margin-bottom: 20px;
+}
