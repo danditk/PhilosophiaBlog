@@ -34,6 +34,8 @@ Tags is also helpfull for blind people. They are using internet to. Some program
 
 	- git stash 		put chenges to backside - stash
 	- git stash pop		get chenges from stash
+	- git branch		master (stay clear) - develop (alpha/beta) - feature(new funcionality) - feature_user/user (individual works)
+						test/ bugfix (when we wont check something/ when something is wrong)
 	
 	
 .# Sources:
