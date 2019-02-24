@@ -257,3 +257,23 @@ h2
 	padding: 20px;
 }
 
+.container
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+
+.west
+{
+	float: left;
+	width: 750px;
+	padding: 20px;
+	text-align: justify;
+}
+.east
+{
+	float: left;
+	width: 170px;
+	padding: 20px;
+}
